@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shrikrishna Mokhashi
+# Shrikrishna Tippanna Mokhashi
 
 ### Python Full Stack Developer • Software Developer Aspirant
 
