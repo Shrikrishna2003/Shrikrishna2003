@@ -1,27 +1,47 @@
 <div align="center">
 
-# Hi 👋 I'm Shrikrishna Mokhashi
+# Shrikrishna Mokhashi
 
-### Python Full Stack Developer | CSE Graduate | Building Real-World Projects with Python
+### Python Full Stack Developer • Software Developer Aspirant
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+%7C+SQL+%7C+JavaScript;Building+Projects+for+Placements;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+software;Python+%7C+Django+%7C+SQL+%7C+JavaScript;Open+to+Software+Developer+Roles" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=Shrikrishna2003&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/Shrikrishna2003?style=for-the-badge&color=0e75b6"/>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# About Me
 
-- 🎓 **B.E. in Computer Science Engineering**
-- 🏫 Graduated from **Smt. Kamala and Shri Venkappa M. Agadi College of Engineering and Technology, Laxmeshwar**
-- 💻 Learning **Python Full Stack Development**
-- 🚀 Building projects that solve real-world problems
-- 🌱 Currently improving my **Python, Django, SQL, and DSA** skills
-- 🎯 Goal: Become a Software Developer and build impactful products
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🎓 **B.E. in Computer Science Engineering**
+
+🏫 **Smt. Kamala and Shri Venkappa M. Agadi College of Engineering and Technology, Laxmeshwar**
+
+💻 Currently learning **Python Full Stack Development**
+
+🚀 Passionate about building practical software instead of tutorial projects.
+
+🎯 Looking for **Software Developer opportunities**.
+
+🌱 Currently improving:
+
+- Python
+- Django
+- SQL
+- REST APIs
+- Data Structures & Algorithms
+
+<br clear="both"/>
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode,java" />
@@ -29,82 +49,119 @@
 
 ---
 
-## 🚀 Featured Projects
+# Featured Projects
 
-### 📚 PrepTrack *(Flagship Project)*
+<table>
+<tr>
+<td width="50%">
 
-A placement preparation platform designed to help students stay interview-ready.
+## 🚀 PrepTrack
 
-**Features**
+Placement preparation platform designed for students.
+
+**Highlights**
 
 - Progress Tracking
-- Coding Practice Management
-- Interview Preparation Resources
-- Clean and Responsive UI
+- Coding Practice
+- Interview Resources
+- Responsive UI
 
----
+</td>
 
-### 🎓 Online Learning Platform
+<td width="50%">
 
-A full-stack learning portal built during my internship.
+## 📚 Online Learning Platform
 
+Built during internship.
+
+- Authentication
 - Course Management
 - Student Dashboard
-- User Authentication
 - Database Integration
 
+</td>
+</tr>
+
+<tr>
+<td>
+
+## 🌾 Farmeasy
+
+Marketplace connecting buyers and sellers of agricultural products.
+
+</td>
+
+<td>
+
+## 🐍 Python Projects
+
+Automation scripts and coding practice repository.
+
+</td>
+</tr>
+</table>
+
 ---
 
-### 🌾 Farmeasy
-
-A web platform connecting buyers and sellers of agricultural products.
-
-- Product Listings
-- User-Friendly Interface
-- Marketplace Features
-
----
-
-## 📊 GitHub Stats
+# GitHub Analytics
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Shrikrishna2003&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shrikrishna2003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shrikrishna2003&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikrishna2003&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikrishna2003&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shrikrishna2003&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+# Contribution Activity
 
-- Python Advanced Concepts
-- Django REST Framework
-- SQL Optimization
-- Data Structures & Algorithms
-- Git & GitHub Best Practices
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrikrishna2003&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+# What I'm Working On
 
-<p align="center">
-<a href="https://github.com/Shrikrishna2003"><img src="https://skillicons.dev/icons?i=github" /></a>
-&nbsp;&nbsp;
-<a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-&nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+- 🚀 Improving PrepTrack
+- 📚 Python DSA
+- ⚡ Django REST APIs
+- 🗄 SQL Optimization
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Shrikrishna2003">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ "Always Learning. Always Building."
-
-![](https://komarev.com/ghpvc/?username=Shrikrishna2003&style=for-the-badge&color=blue)
+### *Code • Learn • Build • Repeat*
 
 </div>
