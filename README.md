@@ -148,11 +148,11 @@ Automation scripts and coding practice repository.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/shrikrishna18">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:shrikrishnamokhashi2003@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
