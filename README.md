@@ -125,7 +125,7 @@ Automation scripts and coding practice repository.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrikrishna2003&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrikrishna2003&theme=github-dark&hide_border=true"/>
 
 </div>
 
