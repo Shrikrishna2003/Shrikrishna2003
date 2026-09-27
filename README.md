@@ -27,7 +27,7 @@
 
 🚀 Passionate about building practical software instead of tutorial projects.
 
-🎯 Looking for **Software Developer opportunities**.
+🎯 Looking for **Software Developer opportunities**
 
 🌱 Currently improving:
 
@@ -73,6 +73,8 @@ Placement preparation platform designed for students.
 ## 📚 Online Learning Platform
 
 Built during internship.
+
+**Features**
 
 - Authentication
 - Course Management
@@ -123,11 +125,9 @@ Automation scripts and coding practice repository.
 
 # Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrikrishna2003&theme=github-dark&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://ghchart.rshah.org/58A6FF/Shrikrishna2003" alt="GitHub Contribution Chart"/>
+</p>
 
 ---
 
@@ -155,13 +155,5 @@ Automation scripts and coding practice repository.
 <a href="mailto:shrikrishnamokhashi2003@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### *Code • Learn • Build • Repeat*
 
 </div>
