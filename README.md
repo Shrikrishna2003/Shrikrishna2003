@@ -4,7 +4,7 @@
 
 ### Python Full Stack Developer • Software Developer Aspirant
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+software;Python+%7C+Django+%7C+SQL+%7C+JavaScript;Open+to+Software+Developer+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+software;Python+%7C+Flask+%7C+Django+%7C+SQL+%7C+JavaScript;Open+to+Software+Developer+Roles" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=Shrikrishna2003&style=for-the-badge&color=0e75b6"/>
@@ -33,6 +33,7 @@
 
 - Python
 - Django
+- Flask
 - SQL
 - REST APIs
 - Data Structures & Algorithms
@@ -44,22 +45,20 @@
 # 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode,java" />
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,mysql,git,github,vscode,java" />
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ## 🚀 PrepTrack
 
 A full-stack coding interview preparation platform designed to help students organize and track their placement preparation.
 
-### Highlights
+### ✨ Highlights
 
 - 📊 Coding progress tracking
 - 💻 Python coding practice
@@ -73,12 +72,14 @@ A full-stack coding interview preparation platform designed to help students org
 - 🔐 User authentication
 - 🗄️ MySQL database
 - ☁️ Railway cloud deployment
+- 🔄 GitHub-based deployment workflow
 
-### Tech Stack
+### 🧰 Tech Stack
 
-**Python • Flask • MySQL • Jinja2 • JavaScript • Chart.js**
+**Python • Flask • MySQL • Jinja2 • JavaScript • Chart.js • Railway**
 
 <p>
+
 <a href="https://preptrack-shrikrishna.up.railway.app">
 <img src="https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge&logo=railway&logoColor=white"/>
 </a>
@@ -86,17 +87,16 @@ A full-stack coding interview preparation platform designed to help students org
 <a href="https://github.com/Shrikrishna2003/PrepTrack">
 <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
-</td>
-
-<td width="50%">
+---
 
 ## 📚 Online Learning Platform
 
-Full-stack learning platform developed during my Java Full Stack internship.
+A full-stack learning platform developed during my **Java Full Stack internship**.
 
-### Features
+### ✨ Features
 
 - 🔐 Authentication
 - 📚 Course Management
@@ -104,36 +104,30 @@ Full-stack learning platform developed during my Java Full Stack internship.
 - 🗄️ Database Integration
 - 🌐 Web-based interface
 
-### Technologies
+### 🧰 Technologies
 
 **Java • Spring • JSP • JDBC • MySQL • HTML • CSS • JavaScript**
 
-</td>
-</tr>
-
-<tr>
-<td>
+---
 
 ## 🌾 Farmeasy
 
-Marketplace web application connecting buyers and sellers of agricultural products.
+A marketplace web application designed to connect buyers and sellers of agricultural products.
 
-### Highlights
+### ✨ Highlights
 
 - 🛒 Product browsing
 - 🌱 Agricultural products
 - 👨‍🌾 Buyer and seller interaction
 - 🌐 Web-based marketplace
 
-</td>
-
-<td>
+---
 
 ## 🐍 Python Projects
 
-Collection of Python programming practice and automation projects.
+A collection of Python programming practice and automation projects.
 
-### Focus Areas
+### 🎯 Focus Areas
 
 - Python fundamentals
 - Problem solving
@@ -141,10 +135,6 @@ Collection of Python programming practice and automation projects.
 - Algorithms
 - Automation
 - Coding practice
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -169,36 +159,36 @@ Collection of Python programming practice and automation projects.
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/Shrikrishna2003" alt="GitHub Contribution Chart"/>
+
+<img src="https://ghchart.rshah.org/58A6FF/Shrikrishna2003" alt="GitHub Contribution Chart"/>
+
 </p>
 
 ---
 
-# 🔨 What I'm Working On
+# 💻 What I'm Working On
 
 - 🚀 Improving **PrepTrack**
 - 🐍 Strengthening **Python**
 - 🧠 Practicing **Data Structures & Algorithms**
-- ⚡ Building **Django REST APIs**
-- 🗄️ Improving **SQL**
+- ⚡ Building **Django & Flask applications**
+- 🔗 Learning **REST APIs**
+- 🗄️ Improving **SQL and database skills**
 - 💼 Preparing for **Software Developer interviews**
 
 ---
 
-# 🎯 Career Interests
+# 🎯 Career Goal
 
-I'm interested in opportunities involving:
+My goal is to become a **Software Developer** and build scalable, practical applications that solve real-world problems.
 
-- Python Development
-- Full Stack Development
-- Backend Development
-- Software Development
-- REST API Development
-- Database Development
+I'm currently focused on strengthening my:
+
+**Python → Full Stack Development → SQL → DSA → REST APIs → Software Development**
 
 ---
 
-# 🌐 Connect With Me
+# 🤝 Connect With Me
 
 <div align="center">
 
@@ -220,8 +210,8 @@ I'm interested in opportunities involving:
 
 <div align="center">
 
-### 🚀 Building • Learning • Improving
+### ⭐ Thanks for visiting my profile!
 
-⭐ Feel free to explore my repositories and projects!
+**Building • Learning • Improving • Preparing**
 
 </div>
