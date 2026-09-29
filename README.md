@@ -142,15 +142,27 @@ A collection of Python programming practice and automation projects.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shrikrishna2003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikrishna2003&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrikrishna2003&theme=tokyonight" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Shrikrishna2003&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shrikrishna2003&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrikrishna2003&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shrikrishna2003&theme=tokyonight&hide_border=true" />
 
 </div>
 
