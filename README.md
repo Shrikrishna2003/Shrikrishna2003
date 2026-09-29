@@ -15,7 +15,7 @@
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -41,7 +41,7 @@
 
 ---
 
-# Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode,java" />
@@ -49,7 +49,7 @@
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -57,14 +57,36 @@
 
 ## 🚀 PrepTrack
 
-Placement preparation platform designed for students.
+A full-stack coding interview preparation platform designed to help students organize and track their placement preparation.
 
-**Highlights**
+### Highlights
 
-- Progress Tracking
-- Coding Practice
-- Interview Resources
-- Responsive UI
+- 📊 Coding progress tracking
+- 💻 Python coding practice
+- 🏢 Company-wise preparation
+- 🔥 Daily streak tracking
+- 📈 Interactive analytics dashboard
+- 🎯 Weekly goals
+- ⏳ Interview countdown
+- 📝 Notes management
+- 📥 CSV export
+- 🔐 User authentication
+- 🗄️ MySQL database
+- ☁️ Railway cloud deployment
+
+### Tech Stack
+
+**Python • Flask • MySQL • Jinja2 • JavaScript • Chart.js**
+
+<p>
+<a href="https://preptrack-shrikrishna.up.railway.app">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge&logo=railway&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shrikrishna2003/PrepTrack">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </td>
 
@@ -72,14 +94,19 @@ Placement preparation platform designed for students.
 
 ## 📚 Online Learning Platform
 
-Built during internship.
+Full-stack learning platform developed during my Java Full Stack internship.
 
-**Features**
+### Features
 
-- Authentication
-- Course Management
-- Student Dashboard
-- Database Integration
+- 🔐 Authentication
+- 📚 Course Management
+- 👨‍🎓 Student Dashboard
+- 🗄️ Database Integration
+- 🌐 Web-based interface
+
+### Technologies
+
+**Java • Spring • JSP • JDBC • MySQL • HTML • CSS • JavaScript**
 
 </td>
 </tr>
@@ -89,7 +116,14 @@ Built during internship.
 
 ## 🌾 Farmeasy
 
-Marketplace connecting buyers and sellers of agricultural products.
+Marketplace web application connecting buyers and sellers of agricultural products.
+
+### Highlights
+
+- 🛒 Product browsing
+- 🌱 Agricultural products
+- 👨‍🌾 Buyer and seller interaction
+- 🌐 Web-based marketplace
 
 </td>
 
@@ -97,7 +131,16 @@ Marketplace connecting buyers and sellers of agricultural products.
 
 ## 🐍 Python Projects
 
-Automation scripts and coding practice repository.
+Collection of Python programming practice and automation projects.
+
+### Focus Areas
+
+- Python fundamentals
+- Problem solving
+- Data structures
+- Algorithms
+- Automation
+- Coding practice
 
 </td>
 </tr>
@@ -105,7 +148,7 @@ Automation scripts and coding practice repository.
 
 ---
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -123,7 +166,7 @@ Automation scripts and coding practice repository.
 
 ---
 
-# Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
   <img src="https://ghchart.rshah.org/58A6FF/Shrikrishna2003" alt="GitHub Contribution Chart"/>
@@ -131,16 +174,31 @@ Automation scripts and coding practice repository.
 
 ---
 
-# What I'm Working On
+# 🔨 What I'm Working On
 
-- 🚀 Improving PrepTrack
-- 📚 Python DSA
-- ⚡ Django REST APIs
-- 🗄 SQL Optimization
+- 🚀 Improving **PrepTrack**
+- 🐍 Strengthening **Python**
+- 🧠 Practicing **Data Structures & Algorithms**
+- ⚡ Building **Django REST APIs**
+- 🗄️ Improving **SQL**
+- 💼 Preparing for **Software Developer interviews**
 
 ---
 
-# Connect With Me
+# 🎯 Career Interests
+
+I'm interested in opportunities involving:
+
+- Python Development
+- Full Stack Development
+- Backend Development
+- Software Development
+- REST API Development
+- Database Development
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -155,5 +213,15 @@ Automation scripts and coding practice repository.
 <a href="mailto:shrikrishnamokhashi2003@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building • Learning • Improving
+
+⭐ Feel free to explore my repositories and projects!
 
 </div>
