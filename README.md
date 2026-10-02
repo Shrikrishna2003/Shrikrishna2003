@@ -4,7 +4,7 @@
 
 ### Python Full Stack Developer • Software Developer Aspirant
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+software;Python+%7C+Flask+%7C+Django+%7C+SQL+%7C+JavaScript;Open+to+Software+Developer+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+software;Python+%7C+FastAPI+%7C+Flask+%7C+Django+%7C+SQL+%7C+JavaScript;Building+AI-powered+career+technology;Open+to+Software+Developer+Roles" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=Shrikrishna2003&style=for-the-badge&color=0e75b6"/>
@@ -25,18 +25,21 @@
 
 💻 Currently learning **Python Full Stack Development**
 
-🚀 Passionate about building practical software instead of tutorial projects.
+🚀 Passionate about building practical software that solves real-world problems.
+
+🤖 Interested in **AI-powered applications and career technology**
 
 🎯 Looking for **Software Developer opportunities**
 
 🌱 Currently improving:
 
-- Python
-- Django
-- Flask
-- SQL
-- REST APIs
-- Data Structures & Algorithms
+* Python
+* FastAPI
+* Django
+* Flask
+* SQL
+* REST APIs
+* Data Structures & Algorithms
 
 <br clear="both"/>
 
@@ -46,7 +49,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,mysql,git,github,vscode,java" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,html,css,js,mysql,postgresql,git,github,vscode,java" />
 
 </p>
 
@@ -60,19 +63,19 @@ A full-stack coding interview preparation platform designed to help students org
 
 ### ✨ Highlights
 
-- 📊 Coding progress tracking
-- 💻 Python coding practice
-- 🏢 Company-wise preparation
-- 🔥 Daily streak tracking
-- 📈 Interactive analytics dashboard
-- 🎯 Weekly goals
-- ⏳ Interview countdown
-- 📝 Notes management
-- 📥 CSV export
-- 🔐 User authentication
-- 🗄️ MySQL database
-- ☁️ Railway cloud deployment
-- 🔄 GitHub-based deployment workflow
+* 📊 Coding progress tracking
+* 💻 Python coding practice
+* 🏢 Company-wise preparation
+* 🔥 Daily streak tracking
+* 📈 Interactive analytics dashboard
+* 🎯 Weekly goals
+* ⏳ Interview countdown
+* 📝 Notes management
+* 📥 CSV export
+* 🔐 User authentication
+* 🗄️ MySQL database
+* ☁️ Railway cloud deployment
+* 🔄 GitHub-based deployment workflow
 
 ### 🧰 Tech Stack
 
@@ -96,45 +99,54 @@ A full-stack coding interview preparation platform designed to help students org
 
 A full-stack learning platform developed during my **Java Full Stack internship**.
 
-### ✨ Features
+### ✨ Highlights
 
-- 🔐 Authentication
-- 📚 Course Management
-- 👨‍🎓 Student Dashboard
-- 🗄️ Database Integration
-- 🌐 Web-based interface
+* 🔐 User authentication
+* 📚 Course management
+* 👨‍🎓 Student dashboard
+* 🗄️ Database integration
+* 🌐 Web-based learning interface
 
-### 🧰 Technologies
+### 🧰 Tech Stack
 
 **Java • Spring • JSP • JDBC • MySQL • HTML • CSS • JavaScript**
 
 ---
 
-## 🌾 Farmeasy
+## 🤖 Viraja — AI Career Intelligence Platform
 
-A marketplace web application designed to connect buyers and sellers of agricultural products.
+An AI-powered career intelligence platform designed to help students and job seekers analyze their career readiness, understand job requirements, identify skill gaps, prepare for interviews, and track job applications.
 
 ### ✨ Highlights
 
-- 🛒 Product browsing
-- 🌱 Agricultural products
-- 👨‍🌾 Buyer and seller interaction
-- 🌐 Web-based marketplace
+* 📄 AI-assisted resume analysis
+* 🎯 Resume & job-description matching
+* 📊 Skill-gap analysis
+* 📚 Personalized skill roadmap
+* 🎤 Interview question generation
+* 🤖 Krish AI career coach
+* 💼 Job application tracking
+* 📈 Application analytics
+* 🔐 User authentication
+* 🗄️ PostgreSQL database
+* 🧠 Google Gemini AI integration
+* ☁️ Render cloud deployment
 
----
+### 🧰 Tech Stack
 
-## 🐍 Python Projects
+**Python • FastAPI • JavaScript • HTML • CSS • PostgreSQL • SQLAlchemy • Google Gemini • Render • Neon**
 
-A collection of Python programming practice and automation projects.
+<p>
 
-### 🎯 Focus Areas
+<a href="https://viraja.onrender.com">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
 
-- Python fundamentals
-- Problem solving
-- Data structures
-- Algorithms
-- Automation
-- Coding practice
+<a href="https://github.com/Shrikrishna2003/Viraja">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -180,13 +192,14 @@ A collection of Python programming practice and automation projects.
 
 # 💻 What I'm Working On
 
-- 🚀 Improving **PrepTrack**
-- 🐍 Strengthening **Python**
-- 🧠 Practicing **Data Structures & Algorithms**
-- ⚡ Building **Django & Flask applications**
-- 🔗 Learning **REST APIs**
-- 🗄️ Improving **SQL and database skills**
-- 💼 Preparing for **Software Developer interviews**
+* 🤖 Building and improving **Viraja — AI Career Intelligence Platform**
+* 🚀 Improving **PrepTrack**
+* 🐍 Strengthening **Python**
+* ⚡ Building **FastAPI, Django & Flask applications**
+* 🔗 Learning and building **REST APIs**
+* 🗄️ Improving **SQL and PostgreSQL skills**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🎤 Preparing for **Software Developer interviews**
 
 ---
 
@@ -196,34 +209,8 @@ My goal is to become a **Software Developer** and build scalable, practical appl
 
 I'm currently focused on strengthening my:
 
-**Python → Full Stack Development → SQL → DSA → REST APIs → Software Development**
+**Python → Full Stack Development → FastAPI/Django → SQL → REST APIs → DSA → AI Applications**
 
 ---
 
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Shrikrishna2003">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/shrikrishna18">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:shrikrishnamokhashi2003@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Building • Learning • Improving • Preparing**
-
-</div>
+# 🤝 Conne
