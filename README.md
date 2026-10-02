@@ -213,4 +213,30 @@ I'm currently focused on strengthening my:
 
 ---
 
-# 🤝 Conne
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Shrikrishna2003">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/shrikrishna18">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:shrikrishnamokhashi2003@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Building • Learning • Improving**
+
+</div>
