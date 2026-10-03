@@ -8,7 +8,7 @@
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=Shrikrishna2003&style=for-the-badge&color=0e75b6"/>
-<img src="https://img.shields.io/github/followers/Shrikrishna2003?style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/Shrikrishna2003?label=Followers&style=for-the-badge&color=0e75b6"/>
 </p>
 
 </div>
@@ -154,89 +154,4 @@ An AI-powered career intelligence platform designed to help students and job see
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrikrishna2003&theme=tokyonight" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shrikrishna2003&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrikrishna2003&theme=tokyonight" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Shrikrishna2003&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/58A6FF/Shrikrishna2003" alt="GitHub Contribution Chart"/>
-
-</p>
-
----
-
-# 💻 What I'm Working On
-
-* 🤖 Building and improving **Viraja — AI Career Intelligence Platform**
-* 🚀 Improving **PrepTrack**
-* 🐍 Strengthening **Python**
-* ⚡ Building **FastAPI, Django & Flask applications**
-* 🔗 Learning and building **REST APIs**
-* 🗄️ Improving **SQL and PostgreSQL skills**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🎤 Preparing for **Software Developer interviews**
-
----
-
-# 🎯 Career Goal
-
-My goal is to become a **Software Developer** and build scalable, practical applications that solve real-world problems.
-
-I'm currently focused on strengthening my:
-
-**Python → Full Stack Development → FastAPI/Django → SQL → REST APIs → DSA → AI Applications**
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Shrikrishna2003">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/shrikrishna18">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:shrikrishnamokhashi2003@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Building • Learning • Improving**
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrikrishna2003&theme=tokyo
