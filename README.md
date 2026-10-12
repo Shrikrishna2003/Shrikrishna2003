@@ -23,10 +23,6 @@
 </a>
 </p>
 
-<p>
-<a href="https://v0-myportfolio-shrikrishnamokhashi.vercel.app/">**View My Portfolio →**</a>
-</p>
-
 </div>
 
 ---
